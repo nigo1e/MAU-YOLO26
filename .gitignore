@@ -1,0 +1,11 @@
+datasets/*
+__pycache__
+tools/
+*.jpg
+*.png
+*.yaml
+*.csv
+*.png
+*.jpg
+*.json
+*.zip
